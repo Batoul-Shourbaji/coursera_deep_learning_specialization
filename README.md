@@ -1,2 +1,2 @@
-# coursera_deep_learning_specialization
+# deep_learning_projects
 Projects from Coursera's Deep Learning Specialization offered by DeepLearning.AI
